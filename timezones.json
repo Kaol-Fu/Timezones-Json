@@ -1,0 +1,620 @@
+{
+  "UTC-12:00": [
+    {
+      "en": "Dateline Standard Time",
+      "zh": "国际日期变更线西"
+    }
+  ],
+  "UTC-11:00": [
+    {
+      "en": "UTC-11",
+      "zh": "协调世界时-11"
+    }
+  ],
+  "UTC-10:00": [
+    {
+      "en": "Aleutian Standard Time",
+      "zh": "阿留申群岛"
+    },
+    {
+      "en": "Hawaiian Standard Time",
+      "zh": "夏威夷"
+    }
+  ],
+  "UTC-09:30": [
+    {
+      "en": "Marquesas Standard Time",
+      "zh": "马克萨斯群岛"
+    }
+  ],
+  "UTC-09:00": [
+    {
+      "en": "Alaskan Standard Time",
+      "zh": "阿拉斯加"
+    },
+    {
+      "en": "UTC-09",
+      "zh": "协调世界时-09"
+    }
+  ],
+  "UTC-08:00": [
+    {
+      "en": "Pacific Standard Time",
+      "zh": "太平洋时间(美国和加拿大)"
+    },
+    {
+      "en": "Pacific Standard Time (Mexico)",
+      "zh": "下加利福尼亚州"
+    },
+    {
+      "en": "UTC-08",
+      "zh": "协调世界时-08"
+    }
+  ],
+  "UTC-07:00": [
+    {
+      "en": "Mountain Standard Time (Mexico)",
+      "zh": "奇瓦瓦，拉巴斯，马萨特兰"
+    },
+    {
+      "en": "Mountain Standard Time",
+      "zh": "山地时间(美国和加拿大)"
+    },
+    {
+      "en": "US Mountain Standard Time",
+      "zh": "亚利桑那"
+    }
+  ],
+  "UTC-06:00": [
+    {
+      "en": "Easter Island Standard Time",
+      "zh": "复活节岛"
+    },
+    {
+      "en": "Central Standard Time (Mexico)",
+      "zh": "瓜达拉哈拉，墨西哥城，蒙特雷"
+    },
+    {
+      "en": "Canada Central Standard Time",
+      "zh": "萨斯喀彻温"
+    },
+    {
+      "en": "Central Standard Time",
+      "zh": "中部时间(美国和加拿大)"
+    },
+    {
+      "en": "Central America Standard Time",
+      "zh": "中美洲"
+    }
+  ],
+  "UTC-05:00": [
+    {
+      "en": "SA Pacific Standard Time",
+      "zh": "波哥大，利马，基多，里奥布朗库"
+    },
+    {
+      "en": "Eastern Standard Time",
+      "zh": "东部时间(美国和加拿大)"
+    },
+    {
+      "en": "Cuba Standard Time",
+      "zh": "哈瓦那"
+    },
+    {
+      "en": "Haiti Standard Time",
+      "zh": "海地"
+    },
+    {
+      "en": "Eastern Standard Time (Mexico)",
+      "zh": "切图马尔"
+    },
+    {
+      "en": "Turks And Caicos Standard Time",
+      "zh": "特克斯和凯科斯群岛"
+    },
+    {
+      "en": "US Eastern Standard Time",
+      "zh": "印地安那州(东部)"
+    }
+  ],
+  "UTC-04:00": [
+    {
+      "en": "Atlantic Standard Time",
+      "zh": "大西洋时间(加拿大)"
+    },
+    {
+      "en": "Venezuela Standard Time",
+      "zh": "加拉加斯"
+    },
+    {
+      "en": "Central Brazilian Standard Time",
+      "zh": "库亚巴"
+    },
+    {
+      "en": "SA Western Standard Time",
+      "zh": "乔治敦，拉巴斯，马瑙斯，圣胡安"
+    },
+    {
+      "en": "Pacific SA Standard Time",
+      "zh": "圣地亚哥"
+    },
+    {
+      "en": "Paraguay Standard Time",
+      "zh": "亚松森"
+    }
+  ],
+  "UTC-03:30": [
+    {
+      "en": "Newfoundland Standard Time",
+      "zh": "纽芬兰"
+    }
+  ],
+  "UTC-03:00": [
+    {
+      "en": "Tocantins Standard Time",
+      "zh": "阿拉瓜伊纳"
+    },
+    {
+      "en": "E. South America Standard Time",
+      "zh": "巴西利亚"
+    },
+    {
+      "en": "Argentina Standard Time",
+      "zh": "布宜诺斯艾利斯"
+    },
+    {
+      "en": "Greenland Standard Time",
+      "zh": "格陵兰"
+    },
+    {
+      "en": "SA Eastern Standard Time",
+      "zh": "卡宴，福塔雷萨"
+    },
+    {
+      "en": "Montevideo Standard Time",
+      "zh": "蒙得维的亚"
+    },
+    {
+      "en": "Magallanes Standard Time",
+      "zh": "蓬塔阿雷纳斯"
+    },
+    {
+      "en": "Bahia Standard Time",
+      "zh": "萨尔瓦多"
+    },
+    {
+      "en": "Saint Pierre Standard Time",
+      "zh": "圣皮埃尔和密克隆群岛"
+    }
+  ],
+  "UTC-02:00": [
+    {
+      "en": "UTC-02",
+      "zh": "协调世界时-02"
+    }
+  ],
+  "UTC-01:00": [
+    {
+      "en": "Cape Verde Standard Time",
+      "zh": "佛得角群岛"
+    },
+    {
+      "en": "Azores Standard Time",
+      "zh": "亚速尔群岛"
+    }
+  ],
+  "UTC": [
+    {
+      "en": "UTC",
+      "zh": "协调世界时间"
+    }
+  ],
+  "UTC+00:00": [
+    {
+      "en": "GMT Standard Time",
+      "zh": "都柏林，爱丁堡，里斯本，伦敦"
+    },
+    {
+      "en": "Morocco Standard Time",
+      "zh": "卡萨布兰卡"
+    },
+    {
+      "en": "Greenwich Standard Time",
+      "zh": "蒙罗维亚，雷克雅未克"
+    }
+  ],
+  "UTC+01:00": [
+    {
+      "en": "W. Europe Standard Time",
+      "zh": "阿姆斯特丹，柏林，伯尔尼，罗马，斯德哥尔摩，维也纳"
+    },
+    {
+      "en": "Central Europe Standard Time",
+      "zh": "贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那，布拉格"
+    },
+    {
+      "en": "Romance Standard Time",
+      "zh": "布鲁塞尔，哥本哈根，马德里，巴黎"
+    },
+    {
+      "en": "Central European Standard Time",
+      "zh": "萨拉热窝，斯科普里，华沙，萨格勒布"
+    },
+    {
+      "en": "Sao Tome Standard Time",
+      "zh": "圣多美"
+    },
+    {
+      "en": "W. Central Africa Standard Time",
+      "zh": "中非西部"
+    }
+  ],
+  "UTC+02:00": [
+    {
+      "en": "Jordan Standard Time",
+      "zh": "安曼"
+    },
+    {
+      "en": "Middle East Standard Time",
+      "zh": "贝鲁特"
+    },
+    {
+      "en": "Syria Standard Time",
+      "zh": "大马士革"
+    },
+    {
+      "en": "Libya Standard Time",
+      "zh": "的黎波里"
+    },
+    {
+      "en": "South Africa Standard Time",
+      "zh": "哈拉雷，比勒陀利亚"
+    },
+    {
+      "en": "FLE Standard Time",
+      "zh": "赫尔辛基，基辅，里加，索非亚，塔林，维尔纽斯"
+    },
+    {
+      "en": "E. Europe Standard Time",
+      "zh": "基希讷乌"
+    },
+    {
+      "en": "Kaliningrad Standard Time",
+      "zh": "加里宁格勒"
+    },
+    {
+      "en": "West Bank Standard Time",
+      "zh": "加沙，希伯伦"
+    },
+    {
+      "en": "Sudan Standard Time",
+      "zh": "喀土穆"
+    },
+    {
+      "en": "Egypt Standard Time",
+      "zh": "开罗"
+    },
+    {
+      "en": "Namibia Standard Time",
+      "zh": "温得和克"
+    },
+    {
+      "en": "GTB Standard Time",
+      "zh": "雅典，布加勒斯特"
+    },
+    {
+      "en": "Israel Standard Time",
+      "zh": "耶路撒冷"
+    }
+  ],
+  "UTC+03:00": [
+    {
+      "en": "Arabic Standard Time",
+      "zh": "巴格达"
+    },
+    {
+      "en": "Arab Standard Time",
+      "zh": "科威特，利雅得"
+    },
+    {
+      "en": "Belarus Standard Time",
+      "zh": "明斯克"
+    },
+    {
+      "en": "Russian Standard Time",
+      "zh": "莫斯科，圣彼得堡，伏尔加格勒"
+    },
+    {
+      "en": "E. Africa Standard Time",
+      "zh": "内罗毕"
+    },
+    {
+      "en": "Turkey Standard Time",
+      "zh": "伊斯坦布尔"
+    }
+  ],
+  "UTC+03:30": [
+    {
+      "en": "Iran Standard Time",
+      "zh": "德黑兰"
+    }
+  ],
+  "UTC+04:00": [
+    {
+      "en": "Arabian Standard Time",
+      "zh": "阿布扎比，马斯喀特"
+    },
+    {
+      "en": "Astrakhan Standard Time",
+      "zh": "阿斯特拉罕，乌里扬诺夫斯克"
+    },
+    {
+      "en": "Caucasus Standard Time",
+      "zh": "埃里温"
+    },
+    {
+      "en": "Azerbaijan Standard Time",
+      "zh": "巴库"
+    },
+    {
+      "en": "Georgian Standard Time",
+      "zh": "第比利斯"
+    },
+    {
+      "en": "Mauritius Standard Time",
+      "zh": "路易港"
+    },
+    {
+      "en": "Saratov Standard Time",
+      "zh": "萨拉托夫"
+    },
+    {
+      "en": "Russia Time Zone 3",
+      "zh": "伊热夫斯克，萨马拉"
+    }
+  ],
+  "UTC+04:30": [
+    {
+      "en": "Afghanistan Standard Time",
+      "zh": "喀布尔"
+    }
+  ],
+  "UTC+05:00": [
+    {
+      "en": "West Asia Standard Time",
+      "zh": "阿什哈巴德，塔什干"
+    },
+    {
+      "en": "Ekaterinburg Standard Time",
+      "zh": "叶卡捷琳堡"
+    },
+    {
+      "en": "Pakistan Standard Time",
+      "zh": "伊斯兰堡，卡拉奇"
+    }
+  ],
+  "UTC+05:30": [
+    {
+      "en": "India Standard Time",
+      "zh": "钦奈，加尔各答，孟买，新德里"
+    },
+    {
+      "en": "Sri Lanka Standard Time",
+      "zh": "斯里加亚渥登普拉"
+    }
+  ],
+  "UTC+05:45": [
+    {
+      "en": "Nepal Standard Time",
+      "zh": "加德满都"
+    }
+  ],
+  "UTC+06:00": [
+    {
+      "en": "Central Asia Standard Time",
+      "zh": "阿斯塔纳"
+    },
+    {
+      "en": "Bangladesh Standard Time",
+      "zh": "达卡"
+    },
+    {
+      "en": "Omsk Standard Time",
+      "zh": "鄂木斯克"
+    }
+  ],
+  "UTC+06:30": [
+    {
+      "en": "Myanmar Standard Time",
+      "zh": "仰光"
+    }
+  ],
+  "UTC+07:00": [
+    {
+      "en": "Altai Standard Time",
+      "zh": "巴尔瑙尔，戈尔诺-阿尔泰斯克"
+    },
+    {
+      "en": "W. Mongolia Standard Time",
+      "zh": "科布多"
+    },
+    {
+      "en": "North Asia Standard Time",
+      "zh": "克拉斯诺亚尔斯克"
+    },
+    {
+      "en": "SE Asia Standard Time",
+      "zh": "曼谷，河内，雅加达"
+    },
+    {
+      "en": "Tomsk Standard Time",
+      "zh": "托木斯克"
+    },
+    {
+      "en": "N. Central Asia Standard Time",
+      "zh": "新西伯利亚"
+    }
+  ],
+  "UTC+08:00": [
+    {
+      "en": "China Standard Time",
+      "zh": "北京，重庆，香港特别行政区，乌鲁木齐"
+    },
+    {
+      "en": "Singapore Standard Time",
+      "zh": "吉隆坡，新加坡"
+    },
+    {
+      "en": "W. Australia Standard Time",
+      "zh": "珀斯"
+    },
+    {
+      "en": "Taipei Standard Time",
+      "zh": "台北"
+    },
+    {
+      "en": "Ulaanbaatar Standard Time",
+      "zh": "乌兰巴托"
+    },
+    {
+      "en": "North Asia East Standard Time",
+      "zh": "伊尔库茨克"
+    }
+  ],
+  "UTC+08:45": [
+    {
+      "en": "Aus Central W. Standard Time",
+      "zh": "尤克拉"
+    }
+  ],
+  "UTC+09:00": [
+    {
+      "en": "Transbaikal Standard Time",
+      "zh": "赤塔市"
+    },
+    {
+      "en": "Tokyo Standard Time",
+      "zh": "大阪，札幌，东京"
+    },
+    {
+      "en": "North Korea Standard Time",
+      "zh": "平壤"
+    },
+    {
+      "en": "Korea Standard Time",
+      "zh": "首尔"
+    },
+    {
+      "en": "Yakutsk Standard Time",
+      "zh": "雅库茨克"
+    }
+  ],
+  "UTC+09:30": [
+    {
+      "en": "Cen. Australia Standard Time",
+      "zh": "阿德莱德"
+    },
+    {
+      "en": "AUS Central Standard Time",
+      "zh": "达尔文"
+    }
+  ],
+  "UTC+10:00": [
+    {
+      "en": "E. Australia Standard Time",
+      "zh": "布里斯班"
+    },
+    {
+      "en": "Vladivostok Standard Time",
+      "zh": "符拉迪沃斯托克"
+    },
+    {
+      "en": "West Pacific Standard Time",
+      "zh": "关岛，莫尔兹比港"
+    },
+    {
+      "en": "Tasmania Standard Time",
+      "zh": "霍巴特"
+    },
+    {
+      "en": "AUS Eastern Standard Time",
+      "zh": "堪培拉，墨尔本，悉尼"
+    }
+  ],
+  "UTC+10:30": [
+    {
+      "en": "Lord Howe Standard Time",
+      "zh": "豪勋爵岛"
+    }
+  ],
+  "UTC+11:00": [
+    {
+      "en": "Bougainville Standard Time",
+      "zh": "布干维尔岛"
+    },
+    {
+      "en": "Magadan Standard Time",
+      "zh": "马加丹"
+    },
+    {
+      "en": "Norfolk Standard Time",
+      "zh": "诺福克岛"
+    },
+    {
+      "en": "Russia Time Zone 10",
+      "zh": "乔库尔达赫"
+    },
+    {
+      "en": "Sakhalin Standard Time",
+      "zh": "萨哈林"
+    },
+    {
+      "en": "Central Pacific Standard Time",
+      "zh": "所罗门群岛，新喀里多尼亚"
+    }
+  ],
+  "UTC+12:00": [
+    {
+      "en": "Russia Time Zone 11",
+      "zh": "阿纳德尔，堪察加彼得罗巴甫洛夫斯克"
+    },
+    {
+      "en": "New Zealand Standard Time",
+      "zh": "奥克兰，惠灵顿"
+    },
+    {
+      "en": "Fiji Standard Time",
+      "zh": "斐济"
+    },
+    {
+      "en": "UTC+12",
+      "zh": "协调世界时+12"
+    }
+  ],
+  "UTC+12:45": [
+    {
+      "en": "Chatham Islands Standard Time",
+      "zh": "查塔姆群岛"
+    }
+  ],
+  "UTC+13:00": [
+    {
+      "en": "Tonga Standard Time",
+      "zh": "努库阿洛法"
+    },
+    {
+      "en": "Samoa Standard Time",
+      "zh": "萨摩亚群岛"
+    },
+    {
+      "en": "UTC+13",
+      "zh": "协调世界时+13"
+    }
+  ],
+  "UTC+14:00": [
+    {
+      "en": "Line Islands Standard Time",
+      "zh": "圣诞岛"
+    }
+  ]
+}
